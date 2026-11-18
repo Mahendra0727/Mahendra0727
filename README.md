@@ -50,7 +50,6 @@
 | [File Sharing App](https://github.com/Mahendra0727/File-sharing-App) | App for sharing files between users | JavaScript, Node.js |
 | [Weather App](https://github.com/Mahendra0727/Weather-App) | Shows live weather for any city | HTML, CSS, JavaScript |
 | [Access Chemical Club](https://github.com/Mahendra0727/access-chemicalclub) | Website built for the chemical club | HTML, CSS |
-| 🔜 **Your AI project** | One line on what it does and the tools used | Python, ... |
 
 ---
 
