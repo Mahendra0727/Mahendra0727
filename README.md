@@ -2,9 +2,11 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mahendra%20Jaiswal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20Backend&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mahendra%20Jaiswal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2C9CF0&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Mahendra+%F0%9F%91%8B;Software+Engineer+with+2%2B+years+of+experience;Building+scalable+backend+services+and+REST+APIs;NIT+Agartala+'24+%7C+Always+learning,+always+shipping)](https://github.com/Mahendra0727)
+**Software Engineer | Full Stack & Backend**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2C9CF0&center=true&vCenter=true&width=620&lines=Hi+there!+I+am+Mahendra;Software+Engineer+with+2%2B+years+of+experience;Building+scalable+backend+services+and+REST+APIs;NIT+Agartala+2024+-+Always+learning+and+shipping)](https://github.com/Mahendra0727)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahendra-jaiswal/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahendra0727)
@@ -16,16 +18,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer with 2+ years of experience** building production web applications and backend services. At **Softserve Global** in Bengaluru, I work on an HRMS product using **Node.js, Spring Boot, React and TypeScript**, backed by **PostgreSQL, MongoDB and Redis**, supporting **200+ concurrent users**.
+I'm a **Software Engineer with 2+ years of experience** building production web applications and backend services. At **Softserve Global** in Bengaluru, I work on an HRMS product using **Node.js, JavaScript, Java Spring Boot, React and TypeScript**, backed by **PostgreSQL, MongoDB and Redis**, supporting **200+ concurrent users**.
 
-- ⚙️ **Performance:** Reduced API response times by **25%** by optimizing database queries and data-access patterns
+- ⚙️ **Performance:** Reduced API response times by optimizing database queries and data-access patterns
 - 🔐 **Security:** Build secure REST APIs with **JWT authentication and RBAC**
-- 🛠 **Reliability:** Debug production issues through log analysis, API debugging and database troubleshooting, helping maintain **99.9% availability**
+- 🛠 **Reliability:** Debug production issues through log analysis, API debugging and database troubleshooting, helping maintain **Good availability**
 - ☁️ **Cloud and DevOps:** Containerize services with **Docker** and deploy on **AWS (EC2, RDS, S3)**
-- 🎨 **Frontend roots:** Started as a Frontend Developer Intern at aNumak & Company, building reusable React and TypeScript components that cut duplicated UI logic by 30%
+- 🎨 **Frontend roots:** Started as a Frontend Developer Intern at aNumak & Company, building reusable React and TypeScript components that cut duplicated UI logic.
 - 🎓 B.Tech in Chemical Engineering, **NIT Agartala (2024)**, CGPA 8.54/10
 - 🤖 Currently exploring AI and building projects around it
-- 🏆 Shortlisted for Round 2 of **Naukri Campus 2026**, with a strong rank in Coding and AI Project
 - 📫 Open to connect on [LinkedIn](https://www.linkedin.com/in/mahendra-jaiswal/)
 
 ---
