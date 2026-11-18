@@ -16,17 +16,19 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer with 2+ years of experience** building production web applications and backend services. At **Softserve Global** in Bengaluru, I work on an HRMS product using **Node.js, JavaScript, Spring Boot, React and TypeScript**, backed by **PostgreSQL, MongoDB and Redis**, supporting **200+ concurrent users**.
+I'm a **Software Engineer with 2+ years of experience** building production web applications and backend services. At **Softserve Global** in Bengaluru, I work on an HRMS product using **Node.js, Spring Boot, React and TypeScript**, backed by **PostgreSQL, MongoDB and Redis**, supporting **200+ concurrent users**.
 
-- ⚙️ **Performance:** Reduced API response times by optimizing database queries and data-access patterns
+- ⚙️ **Performance:** Reduced API response times by **25%** by optimizing database queries and data-access patterns
 - 🔐 **Security:** Build secure REST APIs with **JWT authentication and RBAC**
-- 🛠 **Reliability:** Debug production issues through log analysis, API debugging and database troubleshooting, helping maintain **Good  availability**
+- 🛠 **Reliability:** Debug production issues through log analysis, API debugging and database troubleshooting, helping maintain **99.9% availability**
 - ☁️ **Cloud and DevOps:** Containerize services with **Docker** and deploy on **AWS (EC2, RDS, S3)**
-- 🎨 **Frontend roots:** Started as a Frontend Developer Intern at aNumak & Company, building reusable React and TypeScript components that cut duplicated UI logic.
+- 🎨 **Frontend roots:** Started as a Frontend Developer Intern at aNumak & Company, building reusable React and TypeScript components that cut duplicated UI logic by 30%
 - 🎓 B.Tech in Chemical Engineering, **NIT Agartala (2024)**, CGPA 8.54/10
 - 🤖 Currently exploring AI and building projects around it
+- 🏆 Shortlisted for Round 2 of **Naukri Campus 2026**, with a strong rank in Coding and AI Project
 - 📫 Open to connect on [LinkedIn](https://www.linkedin.com/in/mahendra-jaiswal/)
 
+---
 
 ## 🛠 Tech Stack
 
@@ -52,6 +54,7 @@ I'm a **Software Engineer with 2+ years of experience** building production web 
 
 </div>
 
+---
 
 ## 🚀 Featured Projects
 
@@ -62,6 +65,7 @@ I'm a **Software Engineer with 2+ years of experience** building production web 
 | [Weather App](https://github.com/Mahendra0727/Weather-App) | Shows live weather for any city | HTML, CSS, JavaScript |
 | [Access Chemical Club](https://github.com/Mahendra0727/access-chemicalclub) | Website built for the chemical club | HTML, CSS |
 
+---
 
 ## 📊 GitHub Stats
 
@@ -74,6 +78,7 @@ I'm a **Software Engineer with 2+ years of experience** building production web 
 
 </div>
 
+---
 
 <div align="center">
 
