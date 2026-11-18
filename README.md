@@ -40,9 +40,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
-> Remove any badge you don't actually use. Add new ones from https://shields.io or https://skillicons.dev
-
 ---
 
 ## 🚀 Featured Projects
